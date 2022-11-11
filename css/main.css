@@ -988,7 +988,7 @@ textarea {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .portfolio__button:not(:last-child) {
@@ -1038,6 +1038,7 @@ textarea {
 .portfolio__text {
   font-size: 16px;
   line-height: 1.88;
+  color: #757575;
 }
 
 .portfolio__image {
